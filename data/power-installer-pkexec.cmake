@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "[POWER_INSTALLER_CONFIG]" > /tmp/POWER_INSTALLER_CONFIG.conf
+echo POWER_INSTALLER_USER="$USER" >> /tmp/POWER_INSTALLER_CONFIG.conf
+echo POWER_INSTALLER_HOME="$HOME" >> /tmp/POWER_INSTALLER_CONFIG.conf
+pkexec "@CMAKE_INSTALL_PREFIX@/bin/power-installer" "$@"

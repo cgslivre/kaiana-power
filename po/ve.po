@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+### MAINWINDOW ###
+
+#: ../src/MainWindow.vala:77
+msgid ""
+"General"
+msgstr ""
+""
+
+#: ../src/MainWindow.vala:78
+msgid ""
+"Commands"
+msgstr ""
+""
+
+#: ../src/MainWindow.vala:79
+msgid ""
+"Actions"
+msgstr ""
+""
+
+### GENERAL TAB ###
+
+#: ../src/GeneralTab.vala:52
+msgid ""
+"Drag and drop: debian files, shell, python\n"
+"scripts, and archived themes here:"
+msgstr ""
+""
+""
+
+#: ../src/GeneralTab.vala:61
+msgid ""
+"Is GTK theme (archived)"
+msgstr ""
+""
+
+# ../src/GeneralTab.vala:64
+msgid ""
+"Is icon theme (archived)"
+msgstr ""
+""
+
+#: ../src/GeneralTab.vala:67
+msgid ""
+"Is plank theme (elementary OS; archived)"
+msgstr ""
+""
+
+### COMMAND TAB ###
+
+#: ../src/CommandTab.vala:75
+msgid ""
+"Repositories names"
+msgstr ""
+""
+
+#: ../src/CommandTab.vala:76
+msgid ""
+"PPA's to add:    "
+msgstr ""
+""
+
+#: ../src/CommandTab.vala:84
+msgid ""
+"Package names"
+msgstr ""
+""
+
+#: ../src/CommandTab.vala:85
+msgid ""
+"Packages to install:    "
+msgstr ""
+""
+
+#: ../src/CommandTab.vala:99
+msgid ""
+"Is link to debian, shell or python script file"
+msgstr ""
+""
+
+#: ../src/CommandTab.vala:109
+msgid ""
+"Go!"
+msgstr ""
+""
+
+### ACTIONS TAB ###
+
+#: ../src/ActionsTab.vala:34
+msgid ""
+"Update repositories"
+msgstr ""
+""
+
+#: ../src/ActionsTab.vala:37
+msgid ""
+"Configure all packages"
+msgstr ""
+""
+
+#: ../src/ActionsTab.vala:40
+msgid ""
+"Repair all packages"
+msgstr ""
+""
+
+#: ../src/ActionsTab.vala:43
+msgid ""
+"Remove unnecessary packages"
+msgstr ""
+""
+
+#: ../src/ActionsTab.vala:46
+msgid ""
+"Install ATI graphic drivers"
+msgstr ""
+""
+
+#: ../src/ActionsTab.vala:49
+msgid ""
+"Install NVIDIA graphic drivers"
+msgstr ""
+""
+
+### PREFERENCES DIALOG ###
+
+# ../src/PreferencesDialog.vala:37
+msgid ""
+"Preferences"
+msgstr ""
+""
+
+# ../src/PreferencesDialog.vala:43
+msgid ""
+"Remove dollar signs from command section"
+msgstr ""
+""
+
+# ../src/PreferencesDialog.vala:49
+msgid ""
+"Window always on top"
+msgstr ""
+""
+
+# ../src/PreferencesDialog.vala:55
+msgid ""
+"Automaticly paste contents from clipboard"
+msgstr ""
+""

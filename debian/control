@@ -1,0 +1,20 @@
+Source: power-installer
+Section: x11
+Priority: optional
+Maintainer: Adam Bieńkowski <donadigos159@gmail.com>
+Build-Depends: cmake (>= 2.8),
+               debhelper (>= 8.0.0),
+               python (>= 2.7),
+               libgranite-dev,
+               libglib2.0-dev,
+               libgtk-3-dev (>= 3.12.2),
+               libarchive-dev,
+               libnotify-bin,
+               valac-0.22 | valac (>= 0.22)
+Standards-Version: 3.9.3
+
+Package: power-installer
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Power Installer
+ Power Installer lets you install things quickly on Ubuntu based distributions.

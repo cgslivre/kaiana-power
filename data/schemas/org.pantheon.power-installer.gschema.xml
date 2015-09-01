@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema path="/org/pantheon/power-installer/" id="org.pantheon.power-installer" gettext-domain="power-installer">
+        <key name="remove-dollars" type="b">
+            <default>false</default>
+            <summary>Remove dollars</summary>
+            <description>Remove dollars from commands at each line</description>
+        </key>
+        <key name="auto-paste" type="b">
+            <default>true</default>
+            <summary>Paste from clipboard</summary>
+            <description>Automaticly paste contents from clipboard to commands section</description>
+        </key>
+        <key name="keep-above" type="b">
+            <default>true</default>
+            <summary>Window always above</summary>
+            <description>Main window always present on top</description>
+        </key>
+    </schema>
+</schemalist>

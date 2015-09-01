@@ -1,0 +1,28 @@
+POWER INSTALLER README FILE
+---------------------------
+
+Power Installer lets you install things quickly on Ubuntu based distributions.
+
+It can execute multiple commands at once or open bash, python,
+install debian files briefly. It can also install GTK, icon
+or plank (elementary OS) themes. It has entries for your multiple
+repositories and packages to install.
+
+Other important functions:
+#Update repositories
+#Configure all packages
+#Repair all packages
+#Remove unnescenary packages
+#Install ATI drivers (Experimental)
+#Install NVIDIA drivers (Experimental)
+
+Official Launchpad Website: https://launchpad.net/power-installer
+Browse the code: https://code.launchpad.net/power-installer
+
+VERSION: 0.4
+
+---------DISCLAMER---------
+I am not responsible for any system issues come from external sources, and I cannot guarantee
+that all scripts will do what they supposed to! Please, be caerful
+what external scripts you are downloading, they may break your
+system or wipe out your data!

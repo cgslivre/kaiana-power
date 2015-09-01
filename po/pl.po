@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+### MAINWINDOW ###
+
+#: ../src/MainWindow.vala:87
+msgid ""
+"Drag and drop"
+msgstr ""
+"Przeciągnij i upuść"
+
+#: ../src/MainWindow.vala:78
+msgid ""
+"Commands"
+msgstr ""
+"Komendy"
+
+#: ../src/MainWindow.vala:125
+msgid ""
+"Are you sure you want to quit?"
+msgstr ""
+"Czy napewno chcesz wyjść?"
+
+#: ../src/MainWindow.vala:79
+msgid ""
+"Actions"
+msgstr ""
+"Akcje"
+
+### GENERAL TAB ###
+
+#: ../src/DragDropTab.vala:61
+msgid ""
+"Is GTK theme (archived)"
+msgstr ""
+"Jest motywem GTK (zarchiwizowany)"
+
+# ../src/DragDropTab.vala:64
+msgid ""
+"Is icon theme (archived)"
+msgstr ""
+"Jest motywem ikon (zarchiwizowany)"
+
+#: ../src/DragDropTab.vala:67
+msgid ""
+"Is plank theme (elementary OS; archived)"
+msgstr ""
+"Jest motywem plank (elementary OS; zarchiwizowany)"
+
+### COMMAND TAB ###
+
+#: ../src/CommandTab.vala:75
+msgid ""
+"Repositories names"
+msgstr ""
+"Nazwy repozytoriów"
+
+#: ../src/CommandTab.vala:76
+msgid ""
+"PPA's to add:    "
+msgstr ""
+"PPA do dodania:  "
+
+#: ../src/CommandTab.vala:84
+msgid ""
+"Package names"
+msgstr ""
+"Nazwy pakietów"
+
+#: ../src/CommandTab.vala:85
+msgid ""
+"Packages to install:    "
+msgstr ""
+"Pakiety do zainstalowania: "
+
+#: ../src/CommandTab.vala:76
+msgid ""
+"Is link to debian, bash or python script file"
+msgstr ""
+"Jest linkiem do pliku debiana, skryptem bash lub pytona"
+
+#: ../src/CommandTab.vala:109
+msgid ""
+"Go!"
+msgstr ""
+"Start!"
+
+### ACTIONS TAB ###
+
+#: ../src/ActionsTab.vala:34
+msgid ""
+"Update repositories"
+msgstr ""
+"Aktualizuj repozytoria"
+
+#: ../src/ActionsTab.vala:37
+msgid ""
+"Configure all packages"
+msgstr ""
+"Skonfiguruj wszystkie pakiety"
+
+#: ../src/ActionsTab.vala:40
+msgid ""
+"Repair all packages"
+msgstr ""
+"Napraw wszystkie pakiety"
+
+#: ../src/ActionsTab.vala:43
+msgid ""
+"Remove unnecessary packages"
+msgstr ""
+"Usuń niepotrzebne pakiety"
+
+#: ../src/ActionsTab.vala:46
+msgid ""
+"Install ATI graphic drivers"
+msgstr ""
+"Zainstaluj sterowniki karty graficznej ATI"
+
+#: ../src/ActionsTab.vala:49
+msgid ""
+"Install NVIDIA graphic drivers"
+msgstr ""
+"Zainstaluj sterowniki karty graficznej NVIDIA"
+
+### PREFERENCES DIALOG ###
+
+# ../src/PreferencesDialog.vala:37
+msgid ""
+"Preferences"
+msgstr ""
+"Preferencje"
+
+# ../src/PreferencesDialog.vala:43
+msgid ""
+"Remove dollar signs from command section"
+msgstr ""
+"Usuwaj znaki dolara z sekcji komend"
+
+# ../src/PreferencesDialog.vala:49
+msgid ""
+"Window always on top"
+msgstr ""
+"Okno zawsze na wierzchu"
+
+# ../src/PreferencesDialog.vala:55
+msgid ""
+"Automaticly paste contents from clipboard"
+msgstr ""
+"Automatycznie wklejaj zawartość ze schowka"

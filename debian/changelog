@@ -1,0 +1,46 @@
+power-installer (0.1) trusty; urgency=low
+
+  * Initial Release.
+
+ -- Adam Bieńkowski <donadigos159@gmail.com>  Tue, 9 Apr 2014 04:53:39 -0500
+
+power-installer (0.2) trusty; urgency=low
+
+    * Added new option for installing plank themes (elementary OS)
+    * Improved interface
+    * New types of notifications
+    * Bug fixes:
+    - script files got created in unexpected directories
+    - the commands weren't accepted due to the bad implementation of confirm system
+    - some optimalizations in the code (general.sh)
+    - when user commands were executed Power Installer window wasn't responding
+    - massive code clean
+    - the application now removes the "lock" files to execute all user commands
+
+ -- Adam Bieńkowski <donadigos159@gmail.com>  Sat, 15 Nov 2014 18:00:00 -0500
+
+power-installer (0.3) trusty; urgency=low
+
+    * API detects if application was installed
+    * Huge code cleaning
+    * Bug fixes:
+    - tar.gz and tar.bz2 files weren't unpacked
+    - now Power Installer window scales normal
+    - improved executing user commands
+    - optimalizations in the vala code
+
+ -- Adam Bieńkowski <donadigos159@gmail.com>  Sat, 22 Nov 2014 18:00:00 -0500
+
+power-installer (0.4) trusty; urgency=low
+
+    * Bash to python transformation
+    * Now using policy-kit
+    * Overall optimalization
+    * Added "no_display" key to API to not show APP_NAME, CATEGORY and SUBTITLE
+    * Bug fixes:
+    - first argument was passed as a file
+    - typo fixes
+    - TERM variable is not exported so the commands failed
+    - removed unsecure password system
+
+ -- Adam Bieńkowski <donadigos159@gmail.com>  Th, 26 Dec 2014 18:00:00 -0500 
